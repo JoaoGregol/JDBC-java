@@ -1,2 +1,2 @@
 # TrabalhoJava
- Trabalho 2 Java
+ Trabalho de JDBC para o dia 14/10
